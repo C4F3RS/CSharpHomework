@@ -1,0 +1,15 @@
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\bin\Debug\net7.0\tip-donusuımleri.exe
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\bin\Debug\net7.0\tip-donusuımleri.deps.json
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\bin\Debug\net7.0\tip-donusuımleri.runtimeconfig.json
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\bin\Debug\net7.0\tip-donusuımleri.dll
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\bin\Debug\net7.0\tip-donusuımleri.pdb
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\tip-donusuımleri.csproj.AssemblyReference.cache
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\tip-donusuımleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\tip-donusuımleri.AssemblyInfoInputs.cache
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\tip-donusuımleri.AssemblyInfo.cs
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\tip-donusuımleri.csproj.CoreCompileInputs.cache
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\tip-donusuımleri.dll
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\refint\tip-donusuımleri.dll
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\tip-donusuımleri.pdb
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\tip-donusuımleri.genruntimeconfig.cache
+C:\Users\Cafer\Documents\cs_homework\tip-donusuımleri\obj\Debug\net7.0\ref\tip-donusuımleri.dll
